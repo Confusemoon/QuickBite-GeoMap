@@ -1,6 +1,7 @@
 # QuickBite Delivery Tracker 
 
 A web application that tracks and displays your delivery's real-time location using Geolocation and Mapbox APIs.
+![Uploading 屏幕截图 2025-05-12 081027.png…]()
 
 
 ## Features
